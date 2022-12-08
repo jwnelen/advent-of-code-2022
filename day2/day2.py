@@ -79,7 +79,7 @@ def get_winner_points(me, other):
 
 
 if __name__ == '__main__':
-    f = open('day2/day4-test.txt', 'r')
+    f = open('day2/day2-test.txt', 'r')
     data = [d.strip() for d in f.readlines()]
 
     points = []
